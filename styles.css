@@ -9,7 +9,7 @@
 }
 
 .Top_container{
-    border: 1px solid black;
+    border: 1px solid rgb(251, 2, 2);
     margin: 47px 47px 0 38px;
     padding: 47px 51px 0 51px;
 }
@@ -59,4 +59,10 @@ img{
 
     overflow-clip-margin: content-box;
     overflow: clip;
+}
+.Bottom_container{
+    border: 1px solid black;
+    margin: 47px 47px 0 38px;   
+    border-color: orange;
+    
 }
